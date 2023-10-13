@@ -16,3 +16,4 @@ O projeto está organizado nas seguintes pastas:
 
 O Studio Dailan Oliveira é um salão de beleza especializado em cuidados estéticos, com foco em unhas, depilação e design. Nossa missão é proporcionar aos nossos clientes uma experiência única de beleza, com profissionais qualificados e serviços de alta qualidade.
 
+## Obs site em construção
